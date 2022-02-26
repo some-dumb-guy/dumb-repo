@@ -1,0 +1,8 @@
+.container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color:#232323;
+}
